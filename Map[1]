@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html data-theme="base44" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <link href="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68e6b227c4a4115ad4163220/0976e71e2_unnamed2.jpg" rel="icon"/>
+  <meta content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" name="viewport"/>
+  <meta content="#000000" name="theme-color"/>
+  <meta content="Restez visible et en sécurité en forêt. SylvaSafe connecte chasseurs, cueilleurs et randonneurs pour une expérience partagée en toute sécurité. Signalez votre présence, recevez des alertes de proximité et accédez aux informations de sécurité essentielles." name="description"/>
+  <meta content="yes" name="mobile-web-app-capable"/>
+  <meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+  <meta content="Base44" name="apple-mobile-web-app-title"/>
+  <link href="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68e6b227c4a4115ad4163220/0976e71e2_unnamed2.jpg" rel="apple-touch-icon"/>
+  <link href="https://sylva-safe-e892c10d.base44.app/manifest.json" rel="manifest">
+   <title>
+    SylvaSafe
+   </title>
+   <script src="https://cdn.tailwindcss.com">
+   </script>
+   <meta content="website" property="og:type">
+    <meta content="https://sylva-safe-e892c10d.base44.app" property="og:url">
+     <meta content="SylvaSafe " property="og:title">
+      <meta content="Restez visible et en sécurité en forêt. SylvaSafe connecte chasseurs, cueilleurs et randonneurs pour une expérience partagée en toute sécurité. Signalez votre présence, recevez des alertes de proximité et accédez aux informations de sécurité essentielles." property="og:description"/>
+      <meta content="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68e6b227c4a4115ad4163220/0976e71e2_unnamed2.jpg" property="og:image"/>
+      <meta content="summary_large_image" property="twitter:card"/>
+      <meta content="https://sylva-safe-e892c10d.base44.app" property="twitter:url"/>
+      <meta content="SylvaSafe " property="twitter:title"/>
+      <meta content="Restez visible et en sécurité en forêt. SylvaSafe connecte chasseurs, cueilleurs et randonneurs pour une expérience partagée en toute sécurité. Signalez votre présence, recevez des alertes de proximité et accédez aux informations de sécurité essentielles." property="twitter:description"/>
+      <meta content="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68e6b227c4a4115ad4163220/0976e71e2_unnamed2.jpg" property="twitter:image"/>
+      <script defer="defer" src="/static/js/vendors.bdd01d48.js">
+      </script>
+      <script defer="defer" src="/static/js/main.67ff74f1.js">
+      </script>
+      <link href="/static/css/vendors.77bf307e.css" rel="stylesheet"/>
+      <link href="/static/css/main.5e15951c.css" rel="stylesheet"/>
+     </meta>
+    </meta>
+   </meta>
+  </link>
+ </head>
+ <body>
+  <noscript>
+   You need to enable JavaScript to run this app.
+  </noscript>
+  <div id="root">
+  </div>
+ </body>
+</html>
